@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+
+.section-1 {
+    background-color: rgb(9, 220, 243);
+}
+
+.section-2 {
+    background-color: rgb(100, 200, 255); /* Example color */
+}
+
+.section-3 {
+    background-color: rgba(24, 215, 14, 0.749); /* Example color */
+}
+
+.section-4 {
+    background-color: rgb(192, 255, 150); /* Example color */
+}
